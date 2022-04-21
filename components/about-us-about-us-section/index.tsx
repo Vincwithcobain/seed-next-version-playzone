@@ -39,7 +39,7 @@ export default function AboutUsSection() {
                 {{
                   color: "white",
                   fontSize: "30px",
-                  backgroundCOlor: "green",
+                  backgroundCOlor: "#127f06",
                   broderRadius: "50",
                   padding: "5px",
                 }}
@@ -50,7 +50,7 @@ export default function AboutUsSection() {
                     {{
                       color: "white",
                       fontSize: "30px",
-                      backgroundCOlor: "green",
+                      backgroundCOlor: "#127f06",
                       broderRadius: "50",
                       padding: "5px",
                     }}
